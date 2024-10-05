@@ -27,7 +27,7 @@ A interface foi projetada para ser intuitiva e user-friendly. Ainda que tenha ha
 ## Relatório
 Junto com o código fonte, encontra-se um relatório técnico que expõe a arquitetura do projeto, as funcionalidades implementadas e as soluções utilizadas no desenvolvimento da aplicação.
 
-## Como rodar o projeto
+## Como correr o projeto
 1. Clone este repositório.
 2. No diretório raiz do projeto, rode `npm install` para instalar as dependências.
 3. Use `npm start` para iniciar a aplicação localmente.
